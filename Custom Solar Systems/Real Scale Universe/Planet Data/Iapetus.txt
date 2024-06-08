@@ -1,0 +1,66 @@
+{
+  "version": "1.5",
+  "BASE_DATA": {
+    "radius": 735000.0,
+    "gravity": 0.30,
+    "timewarpHeight": 3000.0,
+    "mapColor": {
+      "r": 0.705,
+      "g": 0.705147111415863,
+      "b": 0.675147111415863,
+      "a": 1.0
+    }
+  },
+  "TERRAIN_DATA": {
+    "TERRAIN_TEXTURE_DATA": {
+      "planetTexture": "Iapetus",
+      "planetTextureCutout": -0.999,
+      "surfaceTexture_A": "Dark_Dust",
+      "surfaceTextureSize_A": {
+        "x": 20.0,
+        "y": 8.0
+      },
+      "surfaceTexture_B": "Hard_Rocks",
+      "surfaceTextureSize_B": {
+        "x": 40.0,
+        "y": 16.0
+      },
+      "terrainTexture_C": "Circles",
+      "terrainTextureSize_C": {
+        "x": 280.0,
+        "y": 145.0
+      },
+      "surfaceLayerSize": 50.0,
+      "minFade": 0.0,
+      "maxFade": 1.0,
+      "shadowIntensity": 1.25,
+      "shadowHeight": 10.0
+    },
+    "terrainFormula": [
+      "OUTPUT = AddHeightMap(Craters, 23852.3422305016, 180)",
+      "OUTPUT = AddHeightMap(Craters, 2850.84705669396, 22)",
+      "OUTPUT = AddHeightMap(Perlin, 1280.65176357011, 3)"
+    ],
+    "textureFormula": [
+      "OUTPUT = AddHeightMap(Perlin, 6485.69411338793, 1, Curve8)",
+      "OUTPUT = ApplyCurve(Curve8)",
+      "OUTPUT = ApplyCurve(Curve8)"
+    ],
+    "verticeSize": 2
+  },
+  "ORBIT_DATA": {
+    "parent": "Saturn",
+    "semiMajorAxis": 3560851000.0,
+    "eccentricity": 0.0276812,
+    "argumentOfPeriapsis": 230.0,
+    "multiplierSOI": 1.0,
+    "orbitLineResolution": 100
+  },
+  "ACHIEVEMENT_DATA": {
+    "Landed": true,
+    "Takeoff": true,
+    "Atmosphere": true,
+    "Orbit": true,
+    "Crash": true
+  }
+}
