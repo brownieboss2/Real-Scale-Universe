@@ -1,7 +1,0 @@
-{
-  "address": "Earth",
-  "position": {
-    "x": 365.0,
-    "y": 26.6
-  }
-}
