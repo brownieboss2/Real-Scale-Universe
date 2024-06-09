@@ -1,4 +1,4 @@
-# RSSS Version 0.1
+# RSU Version 0.1
 
 
 Normal mode is true scale. Hard and realistic are harder versions if you want to make getting to the moon impossible without part mods. Try it.
