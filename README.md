@@ -1,8 +1,8 @@
-# RSU Version 0.1
+# About RSU
 
+Real Scale Universe (RSU) is a mod for the game Spaceflight Simulator (SFS) that aims to add a more challenging and realistic experience to SFS.
 
-Normal mode is true scale. Hard and realistic are harder versions if you want to make getting to the moon impossible without part mods. Try it.
-
+The mod is a succesor of the old Real Scale Solar System mod (RSSS) that I made in 2022, which added every planet, named moon, dwarf planet, and several asteroids to the base game. The mod was released on another website and got over 24 thousand downloads without crediting me whatsoever. This mod aims to do everything that mod could do but better, including add other stars, and as such I am spacing out the release of all of the bodies instead of releasing all of them at once, so that I can perfect the bodies before releasing them to the public.
 
 # Credits:
 
