@@ -40,33 +40,35 @@ This version is very rudimentary and lacks several important objects that will b
 
 # Current list of objects:
 
-* Mercury
+* Sun
 
-* Venus
+	* Mercury
 
-* Earth
+	* Venus
 
-	* Moon
- 
-* Mars
+	* Earth
 
-* Jupiter
+		* Moon
+ 
+	* Mars
 
-	* Io
- 
-	* Europa
- 
-	* Ganymede
- 
-	* Callisto
- 
-* Saturn
+	* Jupiter
 
-	* Enceladus
+		* Io
  
-	* Titan
+		* Europa
  
-	* Iapetus
+		* Ganymede
+ 
+		* Callisto
+ 
+	* Saturn
+
+		* Enceladus
+ 
+		* Titan
+ 
+		* Iapetus
  
 
 Have fun!
