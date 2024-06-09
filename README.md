@@ -1,6 +1,6 @@
-RSSS Version 0.1
+# RSSS Version 0.1
 
-June 8, 2024
+# June 8, 2024
 
 
 Normal mode is true scale. Hard and realistic are harder versions if you want to make getting to the moon impossible without part mods. Try it.
