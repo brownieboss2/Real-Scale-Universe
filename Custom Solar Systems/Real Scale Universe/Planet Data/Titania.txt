@@ -50,7 +50,7 @@
   },
   "ORBIT_DATA": {
     "parent": "Uranus",
-    "semiMajorAxis": 435910.0,
+    "semiMajorAxis": 435910000.0,
     "eccentricity": 0.0011,
     "argumentOfPeriapsis": 68.1,
     "multiplierSOI": 1.0,
