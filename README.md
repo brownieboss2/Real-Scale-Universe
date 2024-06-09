@@ -73,9 +73,9 @@ This version is very rudimentary and lacks several important objects that will b
  	* Uranus
     
 		* Titania
-    
+ 
     	* Neptune
-    
-      		*Triton
+       
+       		*Triton
 
 Have fun!
