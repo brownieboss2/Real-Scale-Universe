@@ -12,7 +12,7 @@
     }
   },
   "ATMOSPHERE_PHYSICS_DATA": {
-    "height": 300000.0,
+    "height": 3500000.0,
     "density": 0.020,
     "curve": 15.0,
     "parachuteMultiplier": 10.0,
@@ -21,7 +21,7 @@
   "ATMOSPHERE_VISUALS_DATA": {
     "GRADIENT": {
       "positionZ": 200000,
-      "height": 480000000.0,
+      "height": 482000000.0,
       "texture": "Saturn_Rings"
     },
     "CLOUDS": {
