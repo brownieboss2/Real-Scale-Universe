@@ -21,7 +21,6 @@ This version is very rudimentary and lacks several important objects that will b
 # Roadmap
 
 
-* 0.2: Add Uranus and Neptune
 
 * 0.3: Add dwarf planets
 
@@ -70,6 +69,9 @@ This version is very rudimentary and lacks several important objects that will b
 		* Titan
  
 		* Iapetus
- 
+ 	* Uranus
+    		* Titania
+    	* Neptune
+      		*Triton
 
 Have fun!
