@@ -22,19 +22,19 @@ This version is very rudimentary and lacks several important objects that will b
 
 
 
-* 0.3: Add dwarf planets
+* Alpha 3: Add dwarf planets
 
-* 0.4: Add Mars moons
+* Alpha 4: Add Mars moons
 
-* 0.5: Add more Saturn moons
+* Alpha 5: Add more Saturn moons
 
-* 0.6: Add more Uranus and Neptune Moons
+* Alpha 6: Add more Uranus and Neptune Moons
 
-* 0.7: Add more Saturn moons and Vesta
+* Alpha 7: Add more Saturn moons and Vesta
 
-* 0.8: Add more dwarf planets
+* Alpha 8: Add more dwarf planets
 
-* 0.9: Add more dwarf planet moons
+* Alpha 9: Add more dwarf planet moons
 
 * 1.0: Add other stars
 
