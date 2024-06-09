@@ -8,7 +8,8 @@ Normal mode is true scale. Hard and realistic are harder versions if you want to
 
 
 Most of the work done by me
-Ring textures by ACSS
+
+Most atmosphere textures by the Actually Complete Solar System mod
 
 
 # Note:
