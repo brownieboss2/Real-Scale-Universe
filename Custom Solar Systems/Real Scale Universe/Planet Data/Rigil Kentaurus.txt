@@ -1,0 +1,84 @@
+{
+  "version": "1.5",
+  "BASE_DATA": {
+    "radius": 851117668.0,
+    "gravity": 247.0,
+    "timewarpHeight": 500000.0,
+    "mapColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    }
+  },
+  "ATMOSPHERE_PHYSICS_DATA": {
+    "height": 300000.0,
+    "density": 0.005,
+    "curve": 13.0,
+    "parachuteMultiplier": 1.0,
+    "upperAtmosphere": 0.5
+  },
+  "ATMOSPHERE_VISUALS_DATA": {
+    "GRADIENT": {
+      "positionZ": 40000,
+      "height": 800000000.0,
+      "texture": "Atmo_Sun"
+    },
+    "CLOUDS": {
+      "texture": "None",
+      "startHeight": 0.0,
+      "width": 0.0,
+      "height": 0.0,
+      "alpha": 0.0,
+      "velocity": 0.0
+    },
+    "FOG": {
+      "keys": []
+    }
+  },
+  "TERRAIN_DATA": {
+    "TERRAIN_TEXTURE_DATA": {
+      "planetTexture": "Star_Type_G",
+      "planetTextureCutout": 0.9950000047683716,
+      "surfaceTexture_A": "Ice",
+      "surfaceTextureSize_A": {
+        "x": -1.0,
+        "y": -1.0
+      },
+      "surfaceTexture_B": "Ice",
+      "surfaceTextureSize_B": {
+        "x": -1.0,
+        "y": -1.0
+      },
+      "terrainTexture_C": "Ice",
+      "terrainTextureSize_C": {
+        "x": -1.0,
+        "y": -1.0
+      },
+      "surfaceLayerSize": 60.0,
+      "minFade": 0.0,
+      "maxFade": 0.6000000238418579,
+      "shadowIntensity": 0.0,
+      "shadowHeight": 0.0
+    },
+    "terrainFormula": [],
+    "textureFormula": [],
+    "verticeSize": 5.0
+  },
+
+  "ORBIT_DATA": {
+    "parent": "Sun",
+    "semiMajorAxis": 41286627782339304.0,
+    "eccentricity": 0.0,
+    "argumentOfPeriapsis": 336.178,
+    "multiplierSOI": 0.25,
+    "orbitLineResolution": 100
+  },
+  "ACHIEVEMENT_DATA": {
+    "Landed": false,
+    "Takeoff": false,
+    "Atmosphere": false,
+    "Orbit": true,
+    "Crash": false
+  }
+}
