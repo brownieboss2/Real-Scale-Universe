@@ -21,9 +21,6 @@ This version is very rudimentary and lacks several important objects that will b
 # Roadmap
 
 
-
-* Alpha 3: Add dwarf planets
-
 * Alpha 4: Add Mars moons
 
 * Alpha 5: Add more Saturn moons
@@ -51,6 +48,8 @@ This version is very rudimentary and lacks several important objects that will b
 		* Moon
  
 	* Mars
+   
+  	* Ceres
 
 	* Jupiter
 
@@ -76,5 +75,16 @@ This version is very rudimentary and lacks several important objects that will b
   * Neptune
 
 	* Triton
+ 
+  * Pluto
+
+  	* Charon
+  
+  * Eris
+
+  	* Dysnomia
+
+
+* Rigil Kentaurus
     
 Have fun!
