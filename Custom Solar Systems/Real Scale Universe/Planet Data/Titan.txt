@@ -5,9 +5,9 @@
     "gravity": 1.4,
     "timewarpHeight": 15000.0,
     "mapColor": {
-      "r": 1.0,
-      "g": 0.71,
-      "b": 0.0,
+      "r": 0.969,
+      "g": 0.867,
+      "b": 0.525,
       "a": 1.0
     }
   },
@@ -21,7 +21,7 @@
   "ATMOSPHERE_VISUALS_DATA": {
     "GRADIENT": {
       "positionZ": 2000,
-      "height": 600000.0,
+      "height": 200000.0,
       "texture": "Atmo_Titan"
     },
     "CLOUDS": {

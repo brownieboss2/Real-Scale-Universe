@@ -5,9 +5,9 @@
     "gravity": 10.4,
     "timewarpHeight": 75000.0,
     "mapColor": {
-      "r": 1.0,
-      "g": 0.80,
-      "b": 0.50,
+      "r": 0.878,
+      "g": 0.741,
+      "b": 0.475,
       "a": 1.0
     }
   },
@@ -22,7 +22,7 @@
     "GRADIENT": {
       "positionZ": 200000,
       "height": 482000000.0,
-      "texture": "Saturn_Rings"
+      "texture": "Atmo_Ring_Saturn"
     },
     "CLOUDS": {
       "texture": "Earth_Clouds",

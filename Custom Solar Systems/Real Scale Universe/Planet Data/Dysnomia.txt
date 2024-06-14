@@ -1,19 +1,19 @@
 {
   "version": "1.5",
   "BASE_DATA": {
-    "radius": 469700.0,
-    "gravity": 0.28,
+    "radius": 307500.0,
+    "gravity": 0.19,
     "timewarpHeight": 5000.0,
     "mapColor": {
-      "r": 0.494,
-      "g": 0.478,
-      "b": 0.467,
+      "r": 0.204,
+      "g": 0.18,
+      "b": 0.18,
       "a": 1.0
     }
   },
   "TERRAIN_DATA": {
     "TERRAIN_TEXTURE_DATA": {
-      "planetTexture": "Ceres",
+      "planetTexture": "Dysnomia",
       "planetTextureCutout": 0.99,
       "surfaceTexture_A": "Ice",
       "surfaceTextureSize_A": {
@@ -46,10 +46,10 @@
     "verticeSize": 2.0
   },
   "ORBIT_DATA": {
-    "parent": "Sun",
-    "semiMajorAxis": 414386102000.0,
-    "eccentricity": 0.116,
-    "argumentOfPeriapsis": 73.2,
+    "parent": "Eris",
+    "semiMajorAxis": 372723000.0,
+    "eccentricity": 0.0062,
+    "argumentOfPeriapsis": 180.83,
     "multiplierSOI": 1.5,
     "orbitLineResolution": 100
   },

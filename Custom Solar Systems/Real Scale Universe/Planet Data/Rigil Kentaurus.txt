@@ -70,7 +70,7 @@
     "parent": "Sun",
     "semiMajorAxis": 41286627782339304.0,
     "eccentricity": 0.0,
-    "argumentOfPeriapsis": 336.178,
+    "argumentOfPeriapsis": 219.89609629,
     "multiplierSOI": 0.25,
     "orbitLineResolution": 100
   },

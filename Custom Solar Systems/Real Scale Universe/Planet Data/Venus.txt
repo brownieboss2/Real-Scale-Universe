@@ -5,14 +5,14 @@
     "gravity": 8.87,
     "timewarpHeight": 35000.0,
     "mapColor": {
-      "r": 1.0,
-      "g": 1.0,
-      "b": 1.0,
+      "r": 0.957,
+      "g": 0.949,
+      "b": 0.929,
       "a": 1.0
     }
   },
   "ATMOSPHERE_PHYSICS_DATA": {
-    "height": 10000.0,
+    "height": 250000.0,
     "density": 0.025,
     "curve": 13.0,
     "parachuteMultiplier": 3.0,
