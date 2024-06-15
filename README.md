@@ -21,8 +21,6 @@ This version is very rudimentary and lacks several important objects that will b
 # Roadmap
 
 
-* Alpha 4: Add Mars moons
-
 * Alpha 5: Add more Saturn moons
 
 * Alpha 6: Add more Uranus and Neptune Moons
@@ -48,6 +46,10 @@ This version is very rudimentary and lacks several important objects that will b
 		* Moon
  
 	* Mars
+   
+   		* Phobos
+ 
+       		* Deimos
    
   	* Ceres
 
