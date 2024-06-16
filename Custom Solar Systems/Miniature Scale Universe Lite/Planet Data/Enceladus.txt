@@ -1,0 +1,83 @@
+{
+  "version": "1.5",
+  "BASE_DATA": {
+    "radius": 252100.0,
+    "gravity": 0.113,
+    "timewarpHeight": 1500.0,
+    "mapColor": {
+      "r": 0.78,
+      "g": 0.78,
+      "b": 0.78,
+      "a": 1.0
+    }
+  },
+  "ATMOSPHERE_VISUALS_DATA": {
+    "GRADIENT": {
+      "positionZ": 4000,
+      "height": 10000.0,
+      "texture": "Atmo_Exosphere"
+    },
+    "CLOUDS": {
+      "texture": "None",
+      "startHeight": 0.0,
+      "width": 1.03,
+      "height": 2.5,
+      "alpha": 1.54,
+      "velocity": 1.2
+    },
+    "FOG": {
+      "keys": []
+    }
+  },
+  "TERRAIN_DATA": {
+    "TERRAIN_TEXTURE_DATA": {
+      "planetTexture": "Enceladus",
+      "planetTextureCutout": 0.99000095467432,
+      "surfaceTexture_A": "Ice",
+      "surfaceTextureSize_A": {
+        "x": 70.0,
+        "y": 25.0
+      },
+      "surfaceTexture_B": "Ice",
+      "surfaceTextureSize_B": {
+        "x": 70.0,
+        "y": 25.0
+      },
+      "terrainTexture_C": "Circles",
+      "terrainTextureSize_C": {
+        "x": 1200.0,
+        "y": 400.0
+      },
+      "surfaceLayerSize": 60.0,
+      "minFade": 0.0,
+      "maxFade": 0.60000000238418,
+      "shadowIntensity": 0.0,
+      "shadowHeight": 0.0
+    },
+    "terrainFormula": [
+      "OUTPUT = AddHeightMap( Perlin,3950.90976394, 3.0, Pow3)",
+      "OUTPUT = AddHeightMap( Perlin,4555.9980247, 8.0, Pow3)",
+      "OUTPUT = AddHeightMap( Perlin,13432.803752350, 30, Pow3)",
+      "OUTPUT = AddHeightMap( Perlin,860.499925639600, 2.0, Pow3)"
+    ],
+    "textureFormula": [],
+    "verticeSize": 2.0
+  },
+  "POST_PROCESSING": {
+    "keys": []
+  },
+  "ORBIT_DATA": {
+    "parent": "Saturn",
+    "semiMajorAxis": 237948000.0,
+    "eccentricity": 0.0047,
+    "multiplierSOI": 3.0,
+    "orbitLineResolution": 100
+  },
+  "ACHIEVEMENT_DATA": {
+    "Landed": true,
+    "Takeoff": true,
+    "Atmosphere": true,
+    "Orbit": true,
+    "Crash": true
+  }
+}

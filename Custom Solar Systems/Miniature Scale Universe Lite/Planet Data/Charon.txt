@@ -1,0 +1,63 @@
+{
+  "version": "1.5",
+  "BASE_DATA": {
+    "radius": 606000.0,
+    "gravity": 0.29,
+    "timewarpHeight": 5000.0,
+    "mapColor": {
+      "r": 0.392,
+      "g": 0.302,
+      "b": 0.322,
+      "a": 1.0
+    }
+  },
+  "TERRAIN_DATA": {
+    "TERRAIN_TEXTURE_DATA": {
+      "planetTexture": "Charon",
+      "planetTextureCutout": 0.99,
+      "surfaceTexture_A": "Ice",
+      "surfaceTextureSize_A": {
+        "x": 70.0,
+        "y": 25.0
+      },
+      "surfaceTexture_B": "Ice",
+      "surfaceTextureSize_B": {
+        "x": 70.0,
+        "y": 25.0
+      },
+      "terrainTexture_C": "Ice",
+      "terrainTextureSize_C": {
+        "x": 1200.0,
+        "y": 400.0
+      },
+      "surfaceLayerSize": 60.0,
+      "minFade": 0.0,
+      "maxFade": 0.6,
+      "shadowIntensity": 4.0,
+      "shadowHeight": 2.0
+    },
+    "terrainFormula": [
+      "OUTPUT = AddHeightMap( Perlin,5475.51608191456, 3.0, Pow3)",
+      "OUTPUT = AddHeightMap( Perlin,6143.19007757582, 8.0, Pow3)",
+      "OUTPUT = AddHeightMap( Perlin,2069.0254389335, 30, Pow3)",
+      "OUTPUT = AddHeightMap( Perlin,7089.08545324446, 2.0, Pow3)"
+    ],
+    "textureFormula": [],
+    "verticeSize": 2.0
+  },
+  "ORBIT_DATA": {
+    "parent": "Pluto",
+    "semiMajorAxis": 19595764.0,
+    "eccentricity": 0.000161,
+    "argumentOfPeriapsis": 73.2,
+    "multiplierSOI": 1.5,
+    "orbitLineResolution": 100
+  },
+  "ACHIEVEMENT_DATA": {
+    "Landed": true,
+    "Takeoff": true,
+    "Atmosphere": true,
+    "Orbit": true,
+    "Crash": true
+  }
+}
