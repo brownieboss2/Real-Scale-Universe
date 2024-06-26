@@ -21,8 +21,6 @@ This version is very rudimentary and lacks several important objects that will b
 # Roadmap
 
 
-* Alpha 5: Add more Saturn moons
-
 * Alpha 6: Add more Uranus and Neptune Moons
 
 * Alpha 7: Add more Saturn moons and Vesta
